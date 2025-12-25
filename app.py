@@ -92,7 +92,7 @@ with st.sidebar:
     st.markdown("""
     <div class="sidebar-footer">
         <hr>
-        👩‍💻 Made with ❤️ by <a href="https://www.linkedin.com/in/shinora-khan/" target="_blank" style="color:white;"><strong>Shinora Khan</strong></a>
+        👩‍💻 Made with 🤍 by <a href="https://www.linkedin.com/in/shinora-khan/" target="_blank" style="color:white;"><strong>Shinora Khan</strong></a>
     </div>
     """, unsafe_allow_html=True)
 
@@ -222,7 +222,6 @@ elif selected_page == "📈 Visualizations":
     else:
         st.warning("⚠️ Please upload data in the 'Upload Data' tab.")
 
-# -------------------- Attrition Insights --------------------
 # -------------------- Attrition Insights --------------------
 elif selected_page == "🧠 Attrition Insights":
     brown_title("🧠 Attrition Insights", size="h2")
