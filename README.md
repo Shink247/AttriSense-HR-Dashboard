@@ -33,7 +33,7 @@ AttriSense is a smart HR analytics dashboard built using Streamlit, designed to 
 
 Built with 🤍 by **Shinora Khan**, MBA Candidate at UCR | AI/ML Engineer | HR Tech Enthusiast.
 
-📄 ## License 
+## 📄 License 
 This project is licensed under the [MIT License](LICENSE).  
 Please provide credit if you use or adapt this project.
 
