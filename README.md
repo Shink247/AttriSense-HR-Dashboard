@@ -24,10 +24,10 @@ AttriSense is a smart HR analytics dashboard built using Streamlit, designed to 
 
 ## ✨ Future Enhancements
 
-- User authentication
-- Admin dashboard
-- Real-time alerts
-- Export reports
+- 🔐 User authentication  
+- 📊 Admin dashboard  
+- 🚨 Real-time alerts and attrition warnings  
+- 📤 PDF/CSV export of insights and reports
 
 ## 👩‍💻 Author
 
